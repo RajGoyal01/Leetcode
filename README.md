@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/RajGoyal01/Leetcode/tree/master/0016-3sum-closest) |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajGoyal01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -21,6 +22,7 @@
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## String
 |  |
@@ -34,4 +36,20 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
+## Hash Table
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
