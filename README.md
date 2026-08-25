@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RajGoyal01/Leetcode/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
@@ -29,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGoyal01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
