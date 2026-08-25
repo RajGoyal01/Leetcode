@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/RajGoyal01/Leetcode/tree/master/0016-3sum-closest) |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajGoyal01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Geometry
 |  |
 | ------- |
