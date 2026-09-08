@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGoyal01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0278-first-bad-version](https://github.com/RajGoyal01/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/RajGoyal01/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
