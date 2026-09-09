@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## String
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGoyal01/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/RajGoyal01/Leetcode/tree/master/0278-first-bad-version) |
 ## Divide and Conquer
 |  |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/RajGoyal01/Leetcode/tree/master/0278-first-bad-version) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
