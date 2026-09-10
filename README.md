@@ -11,6 +11,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajGoyal01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajGoyal01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Geometry
 |  |
 | ------- |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 <!---LeetCode Topics End-->
