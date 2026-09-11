@@ -10,6 +10,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajGoyal01/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajGoyal01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajGoyal01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajGoyal01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Simulation
@@ -53,6 +54,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajGoyal01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Geometry
@@ -103,4 +105,12 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajGoyal01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajGoyal01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
