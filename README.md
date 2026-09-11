@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/RajGoyal01/Leetcode/tree/master/0016-3sum-closest) |
+| [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajGoyal01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajGoyal01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
 ## Geometry
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [3843-first-element-with-unique-frequency](https://github.com/RajGoyal01/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
