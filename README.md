@@ -33,6 +33,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/RajGoyal01/Leetcode/tree/master/0149-max-points-on-a-line) |
+| [0441-arranging-coins](https://github.com/RajGoyal01/Leetcode/tree/master/0441-arranging-coins) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 | [3871-count-commas-in-range-ii](https://github.com/RajGoyal01/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -76,6 +77,7 @@
 | [0069-sqrtx](https://github.com/RajGoyal01/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajGoyal01/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/RajGoyal01/Leetcode/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/RajGoyal01/Leetcode/tree/master/0441-arranging-coins) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RajGoyal01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
