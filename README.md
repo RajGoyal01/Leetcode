@@ -23,6 +23,7 @@
 | [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/RajGoyal01/Leetcode/tree/master/0016-3sum-closest) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RajGoyal01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/RajGoyal01/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -43,10 +44,12 @@
 | [0005-longest-palindromic-substring](https://github.com/RajGoyal01/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RajGoyal01/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/RajGoyal01/Leetcode/tree/master/0389-find-the-difference) |
+| [0680-valid-palindrome-ii](https://github.com/RajGoyal01/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## Greedy
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/RajGoyal01/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/RajGoyal01/Leetcode/tree/master/1927-sum-game) |
 ## Game Theory
 |  |
